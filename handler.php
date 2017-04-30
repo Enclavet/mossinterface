@@ -1,7 +1,7 @@
 <?php
 ini_set('display_errors', 'On');
 include("moss.php");
-$userid = "303531640"; // Enter your MOSS userid
+$userid = ""; // Enter your MOSS userid
 
 function rrmdir($dir) { 
    if (is_dir($dir)) { 
